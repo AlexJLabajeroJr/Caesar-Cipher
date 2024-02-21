@@ -20,8 +20,8 @@ const WhatisCaesarCipher= () => {
               Quiz 1
             </p>
             <div className="flex items-center text-white-900 font-bold text-xl mb-2">
-  <span className="text-[50px]  mr-2 mt-2 ">Welcome to </span>
-  <span className="text-emerald-600 text-[50px]">Caesar Cipher</span>
+  <span className="text-[50px]  mr-2 mt-2 ">WELCOME TO  </span>
+  <span className="text-emerald-600 text-[50px]">CAESAR-CIPHER</span>
 </div>
 
             <p className="text-gray-700 text-base mt-3">The Caesar Cipher, used by Julius Caesar around 58 BC, is a substitution cipher that shifts letters in a message to make it unreadable if intercepted. To decrypt, the receiver reverses the shift. Arab mathematician Al-Kindi broke the Caesar Cipher using frequency analysis, which exploits patterns in letter frequencies.</p>
