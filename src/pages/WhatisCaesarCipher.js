@@ -20,7 +20,7 @@ const WhatisCaesarCipher= () => {
               Quiz 1
             </p>
             <div className="flex items-center text-white-900 font-bold text-xl mb-2">
-  <span className="text-[50px]  mr-2 mt-2 ">Welcome to </span>
+  <span className="text-[50px]  mr-2 mt-2 ">WELCOME TO  </span>
   <span className="text-emerald-600 text-[50px]">CAESAR-CIPHER</span>
 </div>
 
